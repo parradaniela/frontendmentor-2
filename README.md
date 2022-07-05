@@ -13,8 +13,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://parradaniela.github.io/frontendmentor-2/
 
 ## My process
 
@@ -43,10 +41,5 @@ Nothing much to say, just some practice to get back into writing code after a co
 ### Continued development
 
 Curious about how to do this in CSS grid, eventually I would like to try to learn that option as well. 
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
